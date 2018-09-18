@@ -2,7 +2,8 @@
 #include<conio.h>
 void main()
 {
-int a=3;
+int a;
+scanf("%d",&a);  
 if(a>0)
 {
 printf("positive");
