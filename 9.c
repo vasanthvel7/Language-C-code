@@ -19,5 +19,6 @@ sum=sum+i;
 }
 printf("sum of K:%d",sum);
 }
+}
 
 
