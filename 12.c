@@ -11,7 +11,7 @@ void main()
         rem/=10;
     }
     if(rev==num)
-    printf("palindrome");
+    printf("yes");
     else
-    printf("not");
+    printf("no");
 }
