@@ -11,7 +11,7 @@ int main()
         {
             if(low % i == 0)
             {
-                flag = i;
+                flag = 1;
                 break;
             }
         }
