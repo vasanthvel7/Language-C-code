@@ -8,5 +8,5 @@ void main()
         hr++;
         min=min-60;
     }
-    printf("%d:%d",hr,min);
+    printf("%d %d",hr,min);
 }
