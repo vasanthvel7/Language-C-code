@@ -2,8 +2,7 @@
 void main()
 {
     int a,b,temp;
-    scanf("%d",&a);
-    scanf("%d",&b);
+    scanf("%d %d",&a,&b);
     temp=a;
     a=b;
     b=temp;
